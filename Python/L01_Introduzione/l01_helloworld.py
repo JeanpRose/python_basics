@@ -1,25 +1,24 @@
-# questo è un commento!
+# Questo è un commento!
 
-# ctrl + s - per salvare quello che stiamo scrivendo
+# Ctrl + S - per salvare quello che stiamo scrivendo
 
-# il testo tra gli apici doppi "" o '' viene interpretato come stringa
-# stringhe significa testo
+# Il testo tra gli apici doppi "" o singoli '' viene interpretato come stringa.
+# "Stringhe" significa testo.
 
-print('ciao a tutti')
+print('Ciao a tutti')
 
-print ('hello world!')
+print('Hello, world!')
 
-#senza apici fa gia calcoli matematici
+# Senza apici, Python esegue direttamente i calcoli matematici.
 
-print (type(2-2)) #si possono effetuare delle operazioni
-# con apici non farà calcoli
-print ('2+2')
+print(type(2 - 2))  # Si possono effettuare operazioni matematiche.
 
-# con type() posso vedere il tipo di un oggetto
+# Con gli apici, invece, il testo viene trattato come stringa e non viene eseguito alcun calcolo.
+print('2 + 2')
 
-print(type('ciao')) # quindi mi dirà che tipo di oggetto c'è dentro. 
-                    # in questo caso è 'str' quindi stringa
-# nel calcolo prima di dira numeri intero 'int'
+# Con la funzione type() posso vedere il tipo di un oggetto.
 
-# con id() vedo l'id in memoria di un oggetto
- 
+print(type('ciao'))  # In questo caso il risultato sarà 'str', cioè una stringa.
+# Nel calcolo precedente, invece, il risultato sarà 'int', che indica un numero intero.
+
+# Con la funzione id() posso vedere l'indirizzo di memoria di un oggetto.
