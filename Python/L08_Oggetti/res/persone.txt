@@ -1,0 +1,31 @@
+Dottore,Cristina Yang,1978,Roma,Neurologia,10,False,50,49
+Dottore,Addison Montgomery,1989,Firenze,Ginecologia,5,True,20,18
+Paziente,Light Yagami,1970,Milano,Gastrite,False,3,30
+Paziente,Legolas Thranduilion,1990,Napoli,Mal di testa da programmazione,True,2,50
+Dottore,Meredith Grey,1975,Bologna,Chirurgia,20,False,90,80
+Dottore,Derek Shepherd,1990,Torino,Neurologia,3,True,15,12
+Paziente,Sailor Moon,1982,Torino,Polmonite,True,4,30
+Paziente,Megumi Fushiguro,1975,Firenze,Parto,True,6,80
+Dottore,Alex Karev,1972,Napoli,Pediatria,15,False,70,30
+Paziente,Ryan Gosling,1995,Bologna,Gastrointerite,False,7,120
+Dottore,Izzie Stevens,1985,Milano,Medicina Generale,8,True,35,30
+Paziente,Florencia Vernall,1945,Verona,Mal di testa,false,189,1.99
+Paziente,Moss Soles,1994,Bologna,Esaurimento da corso python,true,75,15.11
+Paziente,Nathalia Cockarill,2018,Bologna,tosse,false,298,78.11
+Paziente,Vanna Stallebrass,1921,Venezia,coliche,true,295,89.57
+Paziente,Marius Pitway,1926,Milano,ipertensione,false,128,91.45
+Paziente,Justinn Zelley,2014,Verona,ipertensione,true,264,97.86
+Paziente,Peggie Portwain,2022,Verona,Mal di testa,true,364,31.3
+Paziente,Ilyse Janek,1929,Venezia,attaccamento al lavoro oltre l'orario,true,191,81.87
+Dottore,Lewis Hamilton,1954,Milano,Neurologia,34,true,21,20
+Dottore,Valentino Rossi,1966,Milano,Medicina generale,35,false,172,100
+Dottore,Max Verstappen,1980,Verona,Pediatria,49,true,111,5
+Dottore,Marc Marquez,1986,Milano,Pronto soccorso,40,false,152,150
+Dottore,Sebastian Vettel,1970,Napoli,Chirurgia,30,true,58,56
+Dottore,Andrea Dovizioso,1992,Napoli,Ginecologia,3,true,123,111
+Dottore,Charles Leclerc,1993,Milano,Neurologia,47,false,177,80
+Dottore,Maverick Vinales,1971,Napoli,Medicina generale,14,true,94,82
+Dottore,Daniel Ricciardo,1994,Palermo,Pediatria,56,true,20,20
+Dottore,Fabio Quartararo,1958,Firenze,Pronto soccorso,60,false,140,83
+Dottore,Lando Norris,1975,Milano,Chirurgia,54,true,70,67
+Dottore,Alex Rins,1985,Genova,Ginecologia,28,false,88,81

@@ -1,0 +1,11 @@
+Mal di testa da programmazione,Neurologia
+Gastrite,Medicina generale
+Polmonite,Medicina generale
+Coliche,Pediatria
+Gastrointerite,Pronto soccorso
+Esaurimento da corso python,Neurologia
+Attaccamento al lavoro oltre l'orario,Chirurgia
+Parto,Ginecologia
+Tosse,Medicina generale
+Ipertensione,Medicina generale
+Mal di testa,Neurologia

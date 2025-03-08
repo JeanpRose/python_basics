@@ -1,0 +1,7 @@
+1-Elenco piatti
+2-Costo medio piatti
+3-Elenco per categoria indicata dall'utente
+4-Prezzo medio categoria indicata dall'utente
+5-Piatto più costoso
+6-Categoria più ricorrente
+0-Esci

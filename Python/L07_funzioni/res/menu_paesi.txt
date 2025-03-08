@@ -1,0 +1,9 @@
+1 - L'elenco completo di tutti i paesi
+2 - L'elenco dei paesi che hanno una moneta a scelta
+3 - L'elenco dei paesi che sono isole 
+4 - Elenco delle isole col numero di abitanti inferiore alla media totale
+5 - Elenco dei paesi ordinati per popolazione
+6 - Elenco dei paesi di religione a scelta
+7 - La somma degli abitanti di una religione a scelta
+8 - Numero dei paesi che usano la stessa moneta
+0 - Esci

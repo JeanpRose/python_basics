@@ -1,0 +1,10 @@
+1 - Elenco di tutte le macchine
+2 - Elenco delle macchine cabrio
+3 - Macchina a benzina meno costosa
+4 - Elenco delle macchine che hanno un prezzo superiore a 25000 e 5 porte
+5 - Elenco di tutte le ibride rosse
+6 - Elenco delle macchina in ordine decrescente per prezzo
+7 - Elenco delle macchine a benzina con cilindrata superiore alla media,
+    in ordine alfabetico in base al modello
+8 - Elenco delle macchine non bianche
+0 - Esci

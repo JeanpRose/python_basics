@@ -1,0 +1,14 @@
+1 - Elenco di tutti i gruppi
+2 - Media complessiva dei dischi
+3 - Elenco dei gruppi britannici (nome, dischi, paese)
+4 - Media dischi dei gruppi britannici
+5 - Media dischi dei gruppi americani
+6 - Elenco dei gruppi che hanno più di 10 dischi
+7 - Elenco dei gruppi in base al numero di dischi in ordine crescente
+8 - Gruppo con meno dischi
+9 - Conteggio dei gruppi per ogni paese
+10 - Chiedere all'utente di inserire un nome e verificare se il gruppo è presente
+11 - Elenco dei gruppi il cui nome contiene una specifica parola o carattere (chiedere all'utente)
+12 - Aggiungi un nuovo gruppo
+13 - Elimina i gruppi in base al paese indicato dall'utente
+0 - Esci

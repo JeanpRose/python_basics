@@ -1,0 +1,15 @@
+1 - Vedere la lista completa
+2 - Vedere tutti dottori
+3 - Vedere tutti pazienti
+4 - Vedere i dottori con almeno 10 anni di lavoro
+5 - Vedere i dottori per città indicata dall'utente
+6 - Vedere il dottore con lo stipendio più alto
+7 - Vedere il dottore con lo stipendio più basso
+8 - Vedere la media degli stipendi dei dottori
+9 - Vedere la media degli stipendi per un reparto indicato dall'utente
+10 - Vedere l'elenco dei dottori migliori
+11 - Vedere il dottore più anziano
+12 - Vedere il paziente più giovane
+13 - Vedere il reparto più affollato
+14 - Vedere la spesa totale che deve affrontare l'ospedale per i dottori
+15 - Vedere la somma che i pazienti devono all'ospedale

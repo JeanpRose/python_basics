@@ -1,0 +1,18 @@
+1- Visualizza tutti i videogames
+2- Visualizza tutti i fumetti
+3- Visualizza tutti i videogames sviluppati da Nintendo
+4- Visualizza tutti i fumetti scritti da Alan Moore
+5- Scegli una console e visualizza tutti i videogames 
+6- Scegli una casa editrice e visualizza tutti i fumetti 
+7- Visualizza tutti i videogiochi e i fumetti che presentano nel titolo una parola chiave
+8- Visualizza tutti i videogiochi con un voto compreso fra 60 e 90
+9- Visualizza tutti i videogiochi con un voto oltre i 90
+10- Visualizza la media delle pagine di tutti i fumetti
+11- Visualizza la media delle pagine dei fumetti per una disegnatore scelto dall'utente
+12- Visualizza i videogiochi con il voto più alto
+13- Visualizza i videogiochi con il voto più basso 
+14- Visualizza i fumetti ordinati da quello con meno pagine a quello con più pagine
+15- Visualizza i videogiochi ordinati per voto dal migliore al peggiore
+16- Aggiungi un nuovo gioco
+17- Aggiungi un nuovo fumetto
+0- Esci
